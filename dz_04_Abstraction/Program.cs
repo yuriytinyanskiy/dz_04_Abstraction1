@@ -8,15 +8,15 @@
 
             sportCar.Go();
 
-            sportCar.IAcceleration();
+            sportCar.Acceleration();
 
             Truck truck = new Truck();
 
             truck.Go();
 
-            truck.IDownload();
+            truck.Download();
 
-            truck.IUnload();
+            truck.Unload();
 
 
         }

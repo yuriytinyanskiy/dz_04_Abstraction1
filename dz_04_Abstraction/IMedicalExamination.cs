@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace dz_04_Abstraction
 {
-    internal interface IDownload
+    internal interface IMedicalExamination
     {
-        void IDownload();
+        void ConductAMedicalExamination();
 
     }
 }

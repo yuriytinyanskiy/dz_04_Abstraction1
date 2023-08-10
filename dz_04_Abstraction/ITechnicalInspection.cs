@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace dz_04_Abstraction
 {
-    interface IUnload
+    internal interface ITechnicalInspection
     {
-        void IUnload();
+        void ConductATechnicalInspection();
 
     }
 }
